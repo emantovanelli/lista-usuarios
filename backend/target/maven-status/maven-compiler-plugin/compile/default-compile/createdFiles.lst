@@ -1,0 +1,8 @@
+com\picpay\example\services\UserServiceImpl.class
+com\picpay\example\domain\Priority.class
+com\picpay\example\domain\User.class
+com\picpay\example\services\UserService.class
+com\picpay\example\ExampleApplication.class
+com\picpay\example\domain\UserDTO.class
+com\picpay\example\repositories\UserRepository.class
+com\picpay\example\controllers\UserController.class
